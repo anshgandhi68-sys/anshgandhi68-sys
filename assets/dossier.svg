@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 484" width="1000" height="484">
+<style>
+.k{font-family:'Courier New','Consolas',monospace;font-size:16px;font-weight:bold;fill:#39ff88;letter-spacing:2px}
+.v{font-family:'Courier New','Consolas',monospace;font-size:17px;fill:#e6f2ec}
+.row{opacity:0;animation:in 10s ease-out infinite}
+@keyframes in{0%{opacity:0;transform:translateX(-14px)}6%,90%{opacity:1;transform:translateX(0)}100%{opacity:0}}
+.hd{font-family:'Arial Black','Impact','Haettenschweiler',sans-serif;font-size:26px;letter-spacing:6px;fill:#f4fff8}
+.tag{font-family:'Courier New','Consolas',monospace;font-size:13px;letter-spacing:3px;fill:#05070a}
+.scan{animation:sc 3.5s linear infinite}
+@keyframes sc{0%{transform:translateY(0)}100%{transform:translateY(484px)}}
+.stamp{transform-origin:860px 414px;animation:stamp 10s ease-out infinite;opacity:0}
+@keyframes stamp{0%,42%{opacity:0;transform:rotate(-14deg) scale(2.2)}46%,90%{opacity:.85;transform:rotate(-14deg) scale(1)}100%{opacity:0;transform:rotate(-14deg) scale(1)}}
+.border{animation:dash 6s linear infinite}
+@keyframes dash{to{stroke-dashoffset:-200}}
+.blink{animation:bl 1s steps(1) infinite}@keyframes bl{50%{opacity:0}}
+</style>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0a1510"/><stop offset="1" stop-color="#05070a"/></linearGradient>
+ <linearGradient id="sg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#39ff88" stop-opacity="0"/><stop offset="1" stop-color="#39ff88" stop-opacity=".16"/></linearGradient>
+ <clipPath id="clip"><rect x="4" y="4" width="992" height="476" rx="14"/></clipPath>
+</defs>
+<rect x="4" y="4" width="992" height="476" rx="14" fill="url(#bg)"/>
+<rect x="4" y="4" width="992" height="476" rx="14" fill="none" stroke="#39ff88" stroke-opacity=".7" stroke-width="2" stroke-dasharray="160 40" class="border"/>
+<rect x="4" y="4" width="992" height="56" rx="14" fill="#39ff88" fill-opacity=".1"/>
+<text x="40" y="42" class="hd">CLASSIFIED DOSSIER</text>
+<rect x="750" y="20" width="210" height="26" rx="4" fill="#39ff88"/>
+<text x="855" y="38" class="tag" text-anchor="middle">FILE #068-OMEGA</text>
+<g class="row" style="animation-delay:0.50s">
+  <text x="60" y="110" class="k">▸ CODENAME</text>
+  <text x="330" y="110" class="v">ANSH GANDHI // 'THE ARCHITECT'</text>
+</g><g class="row" style="animation-delay:1.05s">
+  <text x="60" y="152" class="k">▸ ROLE</text>
+  <text x="330" y="152" class="v">Founder @ workivo.in · Technology Builder</text>
+</g><g class="row" style="animation-delay:1.60s">
+  <text x="60" y="194" class="k">▸ CLASS</text>
+  <text x="330" y="194" class="v">Independent Researcher · Full-Stack Sorcerer</text>
+</g><g class="row" style="animation-delay:2.15s">
+  <text x="60" y="236" class="k">▸ ARSENAL</text>
+  <text x="330" y="236" class="v">TypeScript · Python · JavaScript · AI Agents</text>
+</g><g class="row" style="animation-delay:2.70s">
+  <text x="60" y="278" class="k">▸ KNOWN OPS</text>
+  <text x="330" y="278" class="v">ANSH-UPI · WORKIVO 2.0 · CIVORA · Strata</text>
+</g><g class="row" style="animation-delay:3.25s">
+  <text x="60" y="320" class="k">▸ CURRENT MISSION</text>
+  <text x="330" y="320" class="v">Bending the multiverse, one commit at a time</text>
+</g><g class="row" style="animation-delay:3.80s">
+  <text x="60" y="362" class="k">▸ STATUS</text>
+  <text x="330" y="362" class="v">ACTIVE — DO NOT ENGAGE WITHOUT COFFEE</text>
+</g>
+<text x="60" y="454" class="k">&gt; END OF FILE<tspan class="blink">_</tspan></text>
+<g class="stamp">
+ <rect x="745" y="384" width="230" height="60" rx="6" fill="none" stroke="#ff2a6d" stroke-width="4"/>
+ <text x="860" y="424" text-anchor="middle" style="font-family:'Arial Black','Impact','Haettenschweiler',sans-serif;font-size:26px;letter-spacing:4px;fill:#ff2a6d">UNSTOPPABLE</text>
+</g>
+<g clip-path="url(#clip)"><rect x="0" y="-80" width="1000" height="80" fill="url(#sg)" class="scan"/></g>
+</svg>

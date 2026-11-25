@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 40" width="1200" height="40">
+<style>
+.flow{animation:flow 2.4s linear infinite}
+@keyframes flow{to{stroke-dashoffset:-120}}
+.run{animation:run 3.2s ease-in-out infinite}
+@keyframes run{0%{transform:translateX(-80px)}100%{transform:translateX(1280px)}}
+.p{transform-origin:600px 20px;animation:p 1.6s ease-in-out infinite}
+@keyframes p{50%{transform:scale(1.35)}}
+</style>
+<defs>
+ <linearGradient id="fade"><stop offset="0" stop-color="#39ff88" stop-opacity="0"/><stop offset=".5" stop-color="#39ff88"/><stop offset="1" stop-color="#39ff88" stop-opacity="0"/></linearGradient>
+ <filter id="gl"><feGaussianBlur stdDeviation="2.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<line x1="0" y1="20" x2="1200" y2="20" stroke="url(#fade)" stroke-width="1.5" stroke-dasharray="40 20 6 20" class="flow"/>
+<g class="run" filter="url(#gl)"><rect x="0" y="18" width="80" height="4" rx="2" fill="#c9ffe0"/></g>
+<g class="p" filter="url(#gl)"><polygon points="600,8 612,20 600,32 588,20" fill="none" stroke="#39ff88" stroke-width="2"/><circle cx="600" cy="20" r="3" fill="#39ff88"/></g>
+</svg>

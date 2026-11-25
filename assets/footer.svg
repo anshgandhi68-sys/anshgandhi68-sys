@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 200" width="1200" height="200">
+<style>
+.st{fill:#d8ffe9;animation:tw ease-in-out infinite}
+@keyframes tw{0%,100%{opacity:.15}50%{opacity:1}}
+.t{font-family:'Arial Black','Impact','Haettenschweiler',sans-serif;font-size:40px;letter-spacing:8px;fill:#f4fff8}
+.s{font-family:'Courier New','Consolas',monospace;font-size:16px;letter-spacing:5px;fill:#39ff88}
+.wave{animation:wv 6s ease-in-out infinite alternate}
+@keyframes wv{to{transform:translateX(-120px)}}
+.pulse{animation:pl 2.4s ease-in-out infinite}
+@keyframes pl{50%{opacity:.35}}
+</style>
+<defs><linearGradient id="fb" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#05070a" stop-opacity="0"/><stop offset="1" stop-color="#0d2a1a"/></linearGradient></defs>
+<rect width="1200" height="200" fill="url(#fb)"/>
+<g><circle cx="671.2" cy="62.0" r="1" class="st" style="animation-duration:4.1s;animation-delay:-2.73s"/>
+<circle cx="399.5" cy="133.2" r="1" class="st" style="animation-duration:4.2s;animation-delay:-2.19s"/>
+<circle cx="1041.8" cy="35.3" r="1.8" class="st" style="animation-duration:4.31s;animation-delay:-3.99s"/>
+<circle cx="698.1" cy="22.7" r="0.8" class="st" style="animation-duration:3.59s;animation-delay:-2.37s"/>
+<circle cx="861.8" cy="86.4" r="1.8" class="st" style="animation-duration:3.42s;animation-delay:-4.32s"/>
+<circle cx="1172.4" cy="87.2" r="1" class="st" style="animation-duration:4.67s;animation-delay:-3.59s"/>
+<circle cx="481.7" cy="185.1" r="1.8" class="st" style="animation-duration:1.54s;animation-delay:-3.23s"/>
+<circle cx="914.2" cy="87.7" r="1.3" class="st" style="animation-duration:3.76s;animation-delay:-3.34s"/>
+<circle cx="138.5" cy="32.3" r="1" class="st" style="animation-duration:2.26s;animation-delay:-3.28s"/>
+<circle cx="131.6" cy="181.0" r="0.6" class="st" style="animation-duration:2.82s;animation-delay:-3.31s"/>
+<circle cx="384.8" cy="17.0" r="0.8" class="st" style="animation-duration:4.09s;animation-delay:-1.92s"/>
+<circle cx="858.5" cy="70.2" r="1.8" class="st" style="animation-duration:3.91s;animation-delay:-0.01s"/>
+<circle cx="254.8" cy="182.4" r="0.6" class="st" style="animation-duration:4.11s;animation-delay:-1.39s"/>
+<circle cx="617.2" cy="36.0" r="1" class="st" style="animation-duration:3.7s;animation-delay:-3.82s"/>
+<circle cx="411.5" cy="41.2" r="1.3" class="st" style="animation-duration:3.48s;animation-delay:-4.47s"/>
+<circle cx="1145.8" cy="99.9" r="1.3" class="st" style="animation-duration:4.71s;animation-delay:-4.97s"/>
+<circle cx="4.6" cy="21.2" r="0.6" class="st" style="animation-duration:2.71s;animation-delay:-4.22s"/>
+<circle cx="111.0" cy="6.7" r="1" class="st" style="animation-duration:1.99s;animation-delay:-2.05s"/>
+<circle cx="481.7" cy="31.9" r="1.3" class="st" style="animation-duration:4.4s;animation-delay:-2.25s"/>
+<circle cx="1176.6" cy="14.8" r="0.6" class="st" style="animation-duration:1.61s;animation-delay:-0.08s"/>
+<circle cx="393.2" cy="30.9" r="1" class="st" style="animation-duration:4.67s;animation-delay:-4.21s"/>
+<circle cx="997.7" cy="75.2" r="1" class="st" style="animation-duration:1.85s;animation-delay:-1.85s"/>
+<circle cx="253.3" cy="114.5" r="1" class="st" style="animation-duration:2.95s;animation-delay:-0.44s"/>
+<circle cx="581.6" cy="84.8" r="1.3" class="st" style="animation-duration:4.63s;animation-delay:-4.44s"/>
+<circle cx="1005.5" cy="29.1" r="0.6" class="st" style="animation-duration:2.33s;animation-delay:-1.51s"/>
+<circle cx="782.2" cy="186.6" r="1.8" class="st" style="animation-duration:4.36s;animation-delay:-0.49s"/>
+<circle cx="1111.5" cy="62.2" r="1.8" class="st" style="animation-duration:1.93s;animation-delay:-1.41s"/>
+<circle cx="1076.1" cy="191.6" r="1.8" class="st" style="animation-duration:3.18s;animation-delay:-3.33s"/>
+<circle cx="486.1" cy="159.5" r="0.6" class="st" style="animation-duration:2.26s;animation-delay:-1.03s"/>
+<circle cx="84.8" cy="163.5" r="1.3" class="st" style="animation-duration:2.81s;animation-delay:-0.99s"/>
+<circle cx="1052.2" cy="131.3" r="1.8" class="st" style="animation-duration:2.19s;animation-delay:-3.19s"/>
+<circle cx="869.3" cy="119.8" r="1.8" class="st" style="animation-duration:3.0s;animation-delay:-3.87s"/>
+<circle cx="600.5" cy="53.6" r="1.3" class="st" style="animation-duration:2.09s;animation-delay:-3.5s"/>
+<circle cx="238.4" cy="187.4" r="1.3" class="st" style="animation-duration:2.94s;animation-delay:-2.14s"/>
+<circle cx="356.4" cy="82.7" r="0.8" class="st" style="animation-duration:4.42s;animation-delay:-3.46s"/>
+<circle cx="317.4" cy="109.1" r="0.6" class="st" style="animation-duration:2.34s;animation-delay:-0.51s"/>
+<circle cx="536.1" cy="65.8" r="1" class="st" style="animation-duration:2.62s;animation-delay:-0.72s"/>
+<circle cx="130.4" cy="25.5" r="0.6" class="st" style="animation-duration:2.29s;animation-delay:-1.72s"/>
+<circle cx="829.6" cy="168.3" r="1" class="st" style="animation-duration:4.3s;animation-delay:-0.03s"/>
+<circle cx="122.6" cy="198.7" r="1" class="st" style="animation-duration:2.57s;animation-delay:-4.16s"/>
+<circle cx="113.2" cy="48.0" r="0.8" class="st" style="animation-duration:2.71s;animation-delay:-4.61s"/>
+<circle cx="289.8" cy="95.7" r="1.8" class="st" style="animation-duration:3.42s;animation-delay:-2.12s"/>
+<circle cx="1031.0" cy="55.1" r="0.6" class="st" style="animation-duration:2.47s;animation-delay:-4.63s"/>
+<circle cx="747.4" cy="111.0" r="0.8" class="st" style="animation-duration:3.61s;animation-delay:-1.16s"/>
+<circle cx="649.3" cy="124.1" r="1.3" class="st" style="animation-duration:2.39s;animation-delay:-0.28s"/>
+<circle cx="606.4" cy="126.4" r="0.8" class="st" style="animation-duration:2.05s;animation-delay:-3.02s"/>
+<circle cx="1173.6" cy="162.7" r="0.8" class="st" style="animation-duration:3.71s;animation-delay:-0.43s"/>
+<circle cx="135.6" cy="125.2" r="1" class="st" style="animation-duration:3.7s;animation-delay:-3.4s"/>
+<circle cx="975.6" cy="0.5" r="1.8" class="st" style="animation-duration:4.8s;animation-delay:-2.52s"/>
+<circle cx="776.8" cy="171.9" r="1.3" class="st" style="animation-duration:3.37s;animation-delay:-4.94s"/></g>
+<g class="wave" fill="none" stroke="#39ff88" stroke-opacity=".5">
+  <path d="M0 160 Q150 120 300 160 T600 160 T900 160 T1200 160 T1500 160" stroke-width="2"/>
+  <path d="M0 175 Q150 145 300 175 T600 175 T900 175 T1200 175 T1500 175" stroke-width="1" stroke-opacity=".5"/>
+</g>
+<text x="600" y="80" text-anchor="middle" class="t pulse">THE MULTIVERSE BENDS</text>
+<text x="600" y="115" text-anchor="middle" class="s">— BUILT BY ANSH · SEE YOU ON DOOMSDAY —</text>
+</svg>
