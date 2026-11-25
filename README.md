@@ -7,6 +7,8 @@
 <p>
   <a href="https://ansh-gandhi.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-ENTER_THE_MULTIVERSE-39ff88?style=for-the-badge&labelColor=05070a&logo=vercel&logoColor=39ff88"/></a>
   <a href="https://workivo.in"><img src="https://img.shields.io/badge/WORKIVO.IN-HQ-39ff88?style=for-the-badge&labelColor=05070a&logo=rocket&logoColor=39ff88"/></a>
+  <a href="https://www.linkedin.com/in/ansh-a-gandhi-76257b420/"><img src="https://img.shields.io/badge/LINKEDIN-ASSEMBLE-39ff88?style=for-the-badge&labelColor=05070a&logo=linkedin&logoColor=39ff88"/></a>
+  <a href="https://www.instagram.com/anshhgandhii_/"><img src="https://img.shields.io/badge/INSTAGRAM-TRANSMISSIONS-39ff88?style=for-the-badge&labelColor=05070a&logo=instagram&logoColor=39ff88"/></a>
   <img src="https://komarev.com/ghpvc/?username=anshgandhi68-sys&label=SOULS+ENTERED&color=0f7a3d&style=for-the-badge&labelColor=05070a"/>
 </p>
 
